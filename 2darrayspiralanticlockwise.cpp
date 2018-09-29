@@ -31,6 +31,6 @@ int main() {
         cout<<arr[rs][k]<<", ";
         rs++;
     }
-    cout<<"END";
+    cout<<"END OF THE PATTERN";
 	return 0;
 }
