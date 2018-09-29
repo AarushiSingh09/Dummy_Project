@@ -5,7 +5,7 @@ int main() {
     int arr[10][10];
     int m,n; cin>>m>>n;
     int i,j,k;
-
+    cout<<"enter the elements of the array"<<endl;
     for (i=0; i<m; i++)
     {
         for (j=0; j<n;j++)
